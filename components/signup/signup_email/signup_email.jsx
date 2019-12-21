@@ -491,7 +491,8 @@ export default class SignupEmail extends React.Component {
                         >
                             <FormattedMessage
                                 id='signup_user_completed.lets'
-                                defaultMessage="Let's create your account asjhdskdsadashjkdhsakjasdhdsakh"
+                                //defaultMessage="Let's create your account"
+                                defaultMessage="This is my name"
                             />
                         </h4>
                         <span
